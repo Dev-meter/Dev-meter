@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dev-meter
-- 👀 I’m interested in coding and cibersecurity 
+- 👀 I’m interested in coding and cybersecurity 
 - 🌱 I’m currently learning about java
 - 💞️ I’m looking to collaborate on java projects
 - 😄 Pronouns: they
